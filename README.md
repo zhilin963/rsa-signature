@@ -21,3 +21,17 @@ A Python program to implement RSA signature and verification, in order to prove 
 
 * **Signature Verification**
 : Device verifies the signature with Licensee's public key.
+
+
+## 3.Instructions
+* generate the digital signature  
+`python generateSignature.py·  
+
+* compress the update file with signature into a .zip file
+`python compressFile.py·  
+
+* decompress the package  
+`python generateSignature.py·  
+
+* verify the digital signature  
+`python generateSignature.py·
