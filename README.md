@@ -24,14 +24,14 @@ A Python program to implement RSA signature and verification, in order to prove 
 
 
 ## 3.Instructions
-* generate the digital signature  
-`python generateSignature.py·  
+* generate the digital signature using Licensee's secret key.  
+`python generateSignature.py`
 
-* compress the update file with signature into a .zip file
-`python compressFile.py·  
+* compress the update file with signature into a zip file.  
+`python compressFile.py`  
 
-* decompress the package  
-`python generateSignature.py·  
+* decompress the package.    
+`python generateSignature.py`  
 
-* verify the digital signature  
-`python generateSignature.py·
+* verify the digital signature with Licensee's public key.    
+`python verifySignature.py`
