@@ -27,7 +27,7 @@ A Python program to implement RSA signature and verification, in order to prove 
 * generate the digital signature using Licensee's secret key.  
 `python generateSignature.py`
 
-* compress the update file with signature into a zip package.  
+* compress the update file and signature into a zip package.  
 `python compressFile.py`  
 
 * decompress the package.    
