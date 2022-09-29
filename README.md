@@ -13,6 +13,9 @@ A Python program to implement RSA signature and verification, in order to prove 
 * **File Compression**
 : Licensee packages and compresses the signature and files.  
 
+* **File Upload/Retrieval**
+: Licensee uploads the compressed package to a file system, e.g. IPFS. Device retrieves the package by a hash value, then downloads the package to local storage.  
+
 * **File Decompression**
 : Device decompresses the package.  
 
