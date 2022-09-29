@@ -31,7 +31,7 @@ A Python program to implement RSA signature and verification, in order to prove 
 `python compressFile.py`  
 
 * decompress the package.    
-`python decompressSignature.py`  
+`python decompressFile.py`  
 
 * verify the digital signature with Licensee's public key.    
 `python verifySignature.py`
